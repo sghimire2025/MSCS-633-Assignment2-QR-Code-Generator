@@ -16,6 +16,8 @@ cd MSCS-633-Assignment2-QR-Code-Generator
 
 # Create & activate venv
 python -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
 # macOS/Linux
 source .venv/bin/activate
 # Windows (PowerShell)
